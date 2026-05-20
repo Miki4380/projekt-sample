@@ -6,7 +6,7 @@ Monolit, SPA i Rest API.
 
 ## Logika biznesowa
 
-- Wyszukiwarka i filtrowanie: Użytkownik wpisuje tytuł gry, a skrypt JS pokazuje wyniki cen i opisów bez odswieżania strony.
+- Wyszukiwarka i filtrowanie: Użytkownik wpisuje tytuł gry, a skrypt pokazuje wyniki cen i opisów.
 - Moduł opisów: Pokazuje informacje o grze i jej wymagania.
 - Moduł Porównywarki: Strona wyświetla tabele porównań z innych sklepów cenowo od najniższej do najwyższej.
 
